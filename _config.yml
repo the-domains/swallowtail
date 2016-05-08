@@ -1,0 +1,28 @@
+name: swallowtail
+favicon: null
+layout_spectrum: 0.7035360252484679
+typography_spectrum: 0.6171778987627476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8090613896492869
+  lightness: 0.36858720425516367
+  saturation: 0.6487636107485741
+  rhythmicContrast: 0.20696501526981592
+purpose: []
